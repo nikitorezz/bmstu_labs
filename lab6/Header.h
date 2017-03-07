@@ -1,0 +1,12 @@
+#pragma once
+#include "TAnimal.h"
+#include "TArtiodactyla.h"
+#include "TCarnivora.h"
+#include "TElephas.h"
+#include "TGiraffa.h"
+#include "THippopotamus.h"
+#include "TLeo.h"
+#include "TLoxodonta.h"
+#include "TProboscidea.h"
+#include "TTigris.h"
+#include <vector>
